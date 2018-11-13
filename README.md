@@ -1,2 +1,2 @@
-# gliderental.github.io
+# gliderental.com
 GitHub Pages
