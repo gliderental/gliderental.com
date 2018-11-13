@@ -1,2 +1,1 @@
-# gliderental.com
-GitHub Pages
+gliderental.com
